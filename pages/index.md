@@ -5,7 +5,7 @@ permalink: /
 section: home
 intro_paragraph: ''
 ---
-Wij hebben deze voor een opdracht gemaakt van Nederlands.
+Wij hebben deze website voor een opdracht gemaakt van Nederlands.
 
 De opdracht luidde maak iets creatiefs Marit (ik) was al met deze website begonnen.
 
