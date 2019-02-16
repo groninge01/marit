@@ -1,0 +1,14 @@
+// override default values
+$footer-padding: 3rem 1.5rem 3rem;
+
+// sticky footer
+
+.site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+  
+.site-content {
+flex: 1;
+}
