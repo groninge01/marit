@@ -23,7 +23,10 @@ url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & prot
 # Collection
 
 collections:
-  - books
+  books:
+    output: true
+    permalink: /boeken/:slug
+
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
