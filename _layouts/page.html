@@ -2,8 +2,20 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<section class="hero is-primary">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title">
+                {{ page.title }}
+            </h1>
+        </div>
+    </div>
+</section>
 
-{% include page-intro.html %}
+<section class="section container"></div>
 
-{{ content }}
+    {% include page-intro.html %}
+
+    {{ content }}
+</section>
+
