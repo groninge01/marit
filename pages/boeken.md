@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: carousel
 title: Boeken
-permalink: /oboeken
+permalink: /boeken
 section: boeken
 intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+  Intro voor boeken
+carousel: true
 ---
