@@ -27,7 +27,7 @@ collections: # A list of collections the CMS should be able to edit
   # Books
   - name: "book"
     label: "Book"
-    folder: "_collections/_books"
+    folder: "_books"
     sort: "title:asc"
     create: true
     slug: "{{slug}}"
