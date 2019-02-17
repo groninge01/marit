@@ -1,13 +1,13 @@
 <div class='carousel carousel-animated carousel-animate-slide'>
     <div class='carousel-container'>
         <div class='carousel-item has-background is-active'>
-            <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" width="640" height="310" />
+            <img class="is-background" src="/assets/img/uploads/books-bookstore-book-reading-159711.jpeg" alt="" width="640" height="310" />
             <div class="title">Merry Christmas</div>
         </div>
 
         {% for book in site.books %}
         <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" width="640" height="310" />
+            <img class="is-background" src={{ book.image }} alt="" width="640" height="310" />
             <div class="title">{{ book.title }}</div>
         </div>
         {% endfor %}
