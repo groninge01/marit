@@ -4,7 +4,7 @@ title: De Kick
 author: Heleen Vreeswijk
 year: '2014'
 isbn: 978-90-00-34091
-image: /assets/img/uploads/books-bookstore-book-reading-159711.jpeg
+image: /assets/img/uploads/pexels-photo-1086113.jpeg
 ---
 De vrienden: Peter, Maurice, Steef, Danny en Frits wonen in een nette buurt. Het ontbreekt ze aan niets: hebben echt alles wat ze willen. Ze vinden hun leven echter saai. Ze bedenken wilde plannen  over wraak nemen. Al snel willen ze tot actie over gaan.
 
