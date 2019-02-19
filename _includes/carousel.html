@@ -7,8 +7,10 @@
 
         {% for book in site.books %}
         <div class='carousel-item has-background'>
-            <img class="is-background" src={{ book.image }} alt="" width="640" height="310" />
-            <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">{{ book.title }}</div>
+            <a href="/boeken{{ book.slug | relative_url}}">
+                <img class="is-background" src={{ book.image }} alt="" width="640" height="310" />
+                <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">{{ book.title }}</div>
+            </a>
         </div>
         {% endfor %}
     </div>
