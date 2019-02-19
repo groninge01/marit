@@ -1,14 +1,18 @@
 <div class='carousel carousel-animated carousel-animate-slide'>
     <div class='carousel-container'>
         <div class='carousel-item has-background is-active'>
-            <img class="is-background" src="/assets/img/uploads/books-bookstore-book-reading-159711.jpeg" alt="" width="640" height="310" />
+            <figure class="image is-16by9">
+                <img class="is-background" src="/assets/img/uploads/books-bookstore-book-reading-159711.jpeg" alt="" width="640" height="210" />
+            </figure>
             <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">Boeken</div>
         </div>
 
         {% for book in site.books %}
         <div class='carousel-item has-background'>
             <a href="/boeken{{ book.slug | relative_url}}">
-                <img class="is-background" src={{ book.image }} alt="" width="640" height="310" />
+                <figure class="image is-16by9">
+                    <img class="is-background" src={{ book.image }} alt="" width="640" height="310" />
+                </figure>
                 <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">{{ book.title }}</div>
             </a>
         </div>
