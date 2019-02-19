@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<section class="section container">
+
+    <div class="tile is-ancestor">
+        <div class="tile is-4 is-vertical is-parent">
+            <div class="tile is-child box">
+                <p>Title: {{ page.title }} 
+                <p>Auteur: {{ page.author }}</p>
+                <p>Jaar: {{ page.year }}</p>
+                <p>ISBN: {{ page.isbn }}</p>
+            </div>
+        </div>
+        <div class="tile is-parent">
+            <div class="tile is-child box">
+              {{ content }}
+            </div>
+        </div>
+    </div>
+
+    
+</section>
