@@ -6,6 +6,10 @@ year: '2014'
 isbn: 978-90-00-34091
 image: /assets/img/uploads/pexels-photo-1086113.jpeg
 ---
+**SAMENVATTING**
+
+
+
 De vrienden: Peter, Maurice, Steef, Danny en Frits wonen in een nette buurt. Het ontbreekt hen aan niets: hebben echt alles wat zij willen. Zij vinden hun leven echter saai. Zij bedenken wilde plannen over wraak nemen. Al snel willen zij tot actie over gaan.
 
 Zij waren het eens dat het eerste slachtoffer de heer Nijsen, hun leraar economie, moest zijn. Zij vonden hem een klootzak. Hij moest gestraft worden, omdat hij Maurice een aantal keer flink voor schut had gezet in de klas. Een aantal ideeën die bedacht werden: een brandbom in zijn huis, zijn schuur in de fik steken of zijn auto laten afbranden. Uiteindelijk werd besloten zijn auto in de fik te steken. Er werd een goed doordacht plan bedacht, ieder had zijn eigen taak. Op de bewuste avond liep alles volgens het plan en fikte de auto helemaal af. De volgende dag was de brand groot nieuws: er stond een mooi verhaal op de voorpagina van de plaatselijke krant. Alleen Maurice voelde zich de volgende dag erg schuldig. De rest vond het geweldig: dit smaakte naar meer. 
