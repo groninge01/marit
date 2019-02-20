@@ -15,4 +15,6 @@ Naast deze website hebben wij ook een Escape-room gemaakt. Hierbij laten wij onz
 
 Op deze website, vind je een samenvatting van de boeken die wij hebben gelezen en wat informatie over de schrijvers van het boek. De plaatjes/foto's die op deze site worden gebruikt zijn soms wat creatief weggezet, dit omdat wij niet zomaar foto's van de schrijvers en boeken mogen publiceren vanwege auteursrecht en de privacy wet.
 
-Wij wensen jullie heel veel plezier met het lezen van deze website.
+Wij wensen jullie heel veel plezier met het lezen van deze website.  
+
+Marit & Lieke
