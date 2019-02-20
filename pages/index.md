@@ -15,20 +15,4 @@ Naast deze website hebben wij ook een Escape-room gemaakt. Hierbij laten wij onz
 
 Op deze website, vind je een samenvatting van de boeken die wij hebben gelezen en wat informatie over de schrijvers van het boek. De plaatjes/foto's die op deze site worden gebruikt zijn soms wat creatief weggezet, dit omdat wij niet zomaar foto's van de schrijvers en boeken mogen publiceren vanwege auteursrecht en de privacy wet.
 
-Wij wensen jullie heel veel plezier met het lezen van deze website.  
-
- 
-
-Wij hebben deze website voor een opdracht gemaakt van Nederlands.
-
-De opdracht luidde maak iets creatiefs Marit (ik) was al met deze website begonnen.
-
-Maar Lieke bleef over dus toen vroeg ik of ze met mij wilde samenwerken.
-
-Samen hadden we het idee om een escape room te maken met uitkomst de URL van deze website.
-
-Alles staat op deze website dus veel leesplezier.
-
-Groetjes
-
-Marit & Lieke
+Wij wensen jullie heel veel plezier met het lezen van deze website.
