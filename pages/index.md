@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welkom bij onze website
+title: Welkom op onze website
 permalink: /
 section: home
 intro_paragraph: ''
