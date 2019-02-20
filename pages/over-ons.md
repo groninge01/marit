@@ -12,8 +12,6 @@ intro_paragraph: >-
   vakken pakket van het VWO: Chinees, arts en science. In mijn vrije tijd vind
   ik het leuk om te fotograferen.
 ---
-
-
 Hey,
 
-Ik ben Marit. Ik zit ook op het PCC en doe daar ook VWO extra.Mijn lievelings vak is arts want ik hou ervan om creatief bezig te zijn. In mijn vrije tijd hou ik ervan om te tekenen, lezen en spelletjes spelen.
+Ik ben Marit, 16 maart word ik 12 jaar. Ik woon met mijn ouders en zusje in Alkmaar. Zoals hier ergens op de website staat: zit ik in het eerste jaar van de VWO-extra opleiding van het PCC. Ik heb het hier erg naar mijn zin. Mijn favoriete vak is Arts omdat ik het leuk vind om creatief bezig te zijn. Denk hierbij aan tekenen, pixelen en knutselen. Naast mijn creatieve bezigheden, heb ik nog een andere grote hobby: paardrijden, dit doe ik al vanaf mijn zesde jaar. Lieke heb ik leren kennen op het PCC en best grappig ze woont niet eens heel ver bij mij vandaan. Er zijn dagen dat we samen naar school fietsen. Wij hebben een hele gezellige klas, ik hoop dat dit voorlopig niet zal veranderen.
