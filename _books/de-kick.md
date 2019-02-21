@@ -6,10 +6,11 @@ year: '2014'
 isbn: 978-90-00-34091
 image: /assets/img/uploads/pexels-photo-1086113.jpeg
 author_description: >-
-  Heleen Vreeswijk had dyslexie vroeger. Ze wou altijd politie agente of
+  **INFORMATIE OVER DE AUTEUR**
+
+
+  Heleen Vreeswijk had dyslexie vroeger. Ze wilde altijd politie agente of
   schrijfster worden.
-
-
 
 
   Ze ging werken bij de politie en was betrokken bij bekende onderzoeken zoals
@@ -17,8 +18,6 @@ author_description: >-
   Heijn, de Makro-afpersingszaak en de moord op de schrijver Paul Harland. Ook
   kwam ze regelmatig in contact met daders en slachtoffers van gedwongen
   prostitutie. Op 1 januari 2011 stopte ze met het politiewerk.
-
-
 
 
   Haar ervaringen bij de recherche heeft de auteur gebruikt voor verhalen waarin
