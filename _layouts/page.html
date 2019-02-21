@@ -12,11 +12,14 @@ layout: default
 
 <div class="columns">
     <div class="column"></div>
-    <div class="column is-two-thirds content">
-        <section class="section">
+    <div class="column is-two-thirds">
+    {% if page.url == '/boeken' %}
+            {{ content }}
+    {% else %}
+        <section class="section content">
             {{ content }}
         </section>
+    {% endif %}
     </div>
     <div class="column"></div>
 </div>
-
