@@ -3,6 +3,6 @@ layout: carousel
 title: Boeken
 permalink: /boeken
 section: boeken
-intro_paragraph: ''
+intro_paragraph: intro voor boeken
 ---
 
