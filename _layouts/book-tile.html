@@ -14,10 +14,13 @@ layout: default
                 <p>Jaar: {{ page.year }}</p>
                 <p>ISBN: {{ page.isbn }}</p>
             </div>
+            <div class="tile is-vertical is-child box">
+                <p>tekst over auteur</p>
+            </div>
         </div>
         <div class="tile is-parent">
-            <div class="tile is-child box">
-              {{ content | markdownify}}
+            <div class="tile is-child box content">
+                {{ content }}
             </div>
         </div>
     </div>
