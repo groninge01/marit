@@ -10,11 +10,15 @@ author_description: >-
   schrijfster worden.
 
 
+
+
   Ze ging werken bij de politie en was betrokken bij bekende onderzoeken zoals
   de ontvoering van Toos van der Valk, de ontvoering en moord op Gerrit Jan
   Heijn, de Makro-afpersingszaak en de moord op de schrijver Paul Harland. Ook
   kwam ze regelmatig in contact met daders en slachtoffers van gedwongen
   prostitutie. Op 1 januari 2011 stopte ze met het politiewerk.
+
+
 
 
   Haar ervaringen bij de recherche heeft de auteur gebruikt voor verhalen waarin
