@@ -13,13 +13,9 @@ layout: default
 <div class="columns">
     <div class="column"></div>
     <div class="column is-two-thirds">
-    {% if page.url == '/boeken' %}
-            {{ content }}
-    {% else %}
-        <section class="section content">
+        <section class="section{% if page.url != '/boeken' %} content{% endif %}">
             {{ content }}
         </section>
-    {% endif %}
     </div>
     <div class="column"></div>
 </div>
