@@ -1,5 +1,5 @@
 ---
-layout: tile
+layout: book-tile
 title: Krassen
 author: Elle van den Bogaart
 year: 2004

@@ -1,5 +1,5 @@
 ---
-layout: tile
+layout: book-tile
 title: De Kick
 author: Heleen Vreeswijk
 year: '2014'
