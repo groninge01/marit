@@ -5,7 +5,7 @@ permalink: /
 section: home
 intro_paragraph: ''
 ---
-Wij zijn Marit en Lieke, wij zitten op het PCC Lyceum aan de Blekerskade in Alkmaar. Wij volgen de opleiding VWO-Extra. VWO-extra houdt in dat wij extra worden uitgedaagd. Wij krijgen naast de standaard vakken ook Arts (creatief), Science (een combinatie van Biologie, Natuurkunde en Scheikunde) en Chinees. Naast de normale proefwerken en SO's krijgen wij veel praktijkopdrachten en moeten wij regelmatig iets presenteren voor de klas.
+Wij zijn Marit en Lieke. wij zitten op het PCC Lyceum aan de Blekerskade in Alkmaar. Wij volgen de opleiding VWO-Extra. VWO-extra houdt in dat wij extra worden uitgedaagd. Wij krijgen naast de standaard vakken ook Arts (creatief), Science (een combinatie van Biologie, Natuurkunde en Scheikunde) en Chinees. Naast de normale proefwerken en SO's krijgen wij veel praktijkopdrachten en moeten wij regelmatig iets presenteren voor de klas.
 
 
 
