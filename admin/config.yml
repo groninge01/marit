@@ -44,3 +44,15 @@ collections: # A list of collections the CMS should be able to edit
           config:
             multiple: true
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  # Designers
+  - name: "designer"
+    label: "Designer"
+    folder: "_designers"
+    sort: "title:asc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "designer-tile"}
+      - {label: "Size", name: "size", widget: "number"}
+      - {label: "Color", name: "color", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
