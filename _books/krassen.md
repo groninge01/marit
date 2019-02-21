@@ -5,7 +5,16 @@ author: Elle van den Bogaart
 year: 2004
 isbn: '9789000347728'
 image: /assets/img/uploads/kitten-scratches-sofa-looking-innocent_925x.jpg
-author_description: ''
+author_description: >-
+  Van den Bogaart is geboren in 1959 in Nuland. Na haar HBO-J-diploma ging ze
+  aan het werk als psychologisch assistente in Eindhoven. In 2003 schreef ze
+  haar eerste roman De gele scooter over een meisje dat seksueel misbruikt is.
+  Hierna volgde haar tweede roman Krassen over een jongen wiens moeder een eind
+  aan haar leven maakte. Haar derde boek heet Duizend kilometer over
+  probleemjongeren op een zorgboerderij. Verder ging haar vierde boek Prooi over
+  jongensprostitutie. Vermist is haar vijfde jongerenroman en gaat over de
+  vermissing van een meisje. Haar zesde boek De val gaat over de onmogelijke
+  liefde tussen een meisje en een jongen die betrokken is bij een bende.
 ---
 SAMENVATTING
 
