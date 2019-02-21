@@ -43,6 +43,7 @@ collections: # A list of collections the CMS should be able to edit
         media_library:
           config:
             multiple: true
+      - {label: "Author description", name: "author_description", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   # Designers
   - name: "designer"
