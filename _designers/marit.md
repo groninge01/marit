@@ -1,6 +1,7 @@
 ---
 layout: designer-tile
 color: "is-info"
+size: 6
 ---
 Hey,
 

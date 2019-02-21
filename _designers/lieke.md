@@ -1,6 +1,7 @@
 ---
 layout: designer-tile
 color: "is-warning"
+size: 5
 ---
   Hoi,
 

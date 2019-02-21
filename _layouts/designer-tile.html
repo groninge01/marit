@@ -1,19 +1,14 @@
 ---
-layout: default
+layout: page
 ---
-
-{% include hero.html %}
-
-<section class="section container">
-    <div class="tile is-ancestor">
-            {% for designer in site.designers %}
-        <div class="tile is-4 is-parent">
-            <div class="tile is-child notification {{designer.color}}">
-                <div class="content">
-                {{ designer.content }}
-                </div>
+<div class="tile is-ancestor">
+        {% for designer in site.designers %}
+    <div class="tile is-{{ designer.size }} is-parent">
+        <div class="tile is-child notification {{designer.color}}">
+            <div class="content">
+            {{ designer.content }}
             </div>
         </div>
-        {% endfor %}
     </div>
-</section>
+    {% endfor %}
+</div>
