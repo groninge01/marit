@@ -1,6 +1,6 @@
 ---
 layout: book-tile
-title: Bad boy for life
+title: Bad boys for life
 author: Vrank Post
 year: 2008
 isbn: '9789022322536'
