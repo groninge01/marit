@@ -9,8 +9,7 @@ author_description: >-
   **INFORMATIE OVER DE AUTEUR**
 
 
-
-  Heleen Vreeswijk had vroeger dyslexie. Ze wilde altijd politie agente of
+  Heleen Vreeswijk had vroeger dyslexie. Ze wilde altijd politieagente of
   schrijfster worden.
 
 
@@ -21,7 +20,7 @@ author_description: >-
 
   * De ontvoering en moord op Gerrit Jan Heijn
 
-  * De Makro-afpersingszaak en 
+  * De Makro-afpersingszaak
 
   * De moord op de schrijver Paul Harland
 
