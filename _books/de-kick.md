@@ -4,13 +4,13 @@ title: De Kick
 author: Heleen Vreeswijk
 year: '2014'
 isbn: 978-90-00-34091
+read-by: Marit van Groningen
 image: /assets/img/uploads/pexels-photo-1086113.jpeg
 author_description: >-
   **INFORMATIE OVER DE AUTEUR**
 
 
-
-  Heleen Vreeswijk had vroeger dyslexie. Ze wilde altijd politie agente of
+  Heleen Vreeswijk had vroeger dyslexie. Ze wilde altijd politieagente of
   schrijfster worden.
 
 
@@ -21,7 +21,7 @@ author_description: >-
 
   * De ontvoering en moord op Gerrit Jan Heijn
 
-  * De Makro-afpersingszaak en 
+  * De Makro-afpersingszaak
 
   * De moord op de schrijver Paul Harland
 
