@@ -12,9 +12,10 @@ layout: default
                 <p>Auteur: {{ page.author }}</p>
                 <p>Jaar: {{ page.year }}</p>
                 <p>ISBN: {{ page.isbn }}</p>
+                <p>Gelezen door: {{ page.read-by }}</p>
             </div>
             <div class="tile is-child box content">
-                <p>{{ page.author_description }}</p>
+                <p>{{ page.author_description | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             </div>
             <div class="tile is-child">
             </div>
