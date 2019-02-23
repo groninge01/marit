@@ -9,16 +9,24 @@ author_description: >-
   **INFORMATIE OVER DE AUTEUR**
 
 
-  Elle Van den Bogaart is geboren in 1959, in Nuland. Na haar HBO-J-diploma ging
-  ze aan het werk als psychologisch assistente in Eindhoven. In 2003 schreef ze
-  haar eerste roman: De gele scooter. Dit boek gaat over een meisje dat seksueel
-  misbruikt is. Hierna volgde haar tweede roman: Krassen. Deze gaat over een
-  jongen wiens moeder een eind aan haar leven maakte. Haar derde boek heet
-  Duizend kilometer over probleemjongeren op een zorgboerderij. Verder ging haar
-  vierde boek Prooi over jongensprostitutie. Vermist is haar vijfde
-  jongerenroman en gaat over de vermissing van een meisje. Haar zesde boek De
-  val gaat over de onmogelijke liefde tussen een meisje en een jongen die
-  betrokken is bij een bende.
+  Elle Van den Bogaart is geboren in 1959, in Nuland. Na haar HBO-J-diploma is
+  ze gaan werken  als psychologisch assistente in Eindhoven. 
+
+
+  Elle heeft tot nu toe zes boeken geschreven:
+
+
+  1. De gele scooter  --> seksueel misbruik
+
+  2. Krassen  --> zelfmoord
+
+  3. Duizend kilometer  --> probleemjongeren
+
+  4. Prooi  --> jongensprostitutie
+
+  5. Vermist  --> vermissing
+
+  6. De val  --> onmogelijke liefde
 ---
 **SAMENVATTING**
 
