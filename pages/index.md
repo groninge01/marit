@@ -11,7 +11,7 @@ Voor het vak Nederlands moesten wij een boek lezen. Hierna moesten wij iets crea
 
 Bij het bespreken van de opdracht bleek dat de opdracht eigenlijk in tweetallen moest worden uitgevoerd. Van de leraar mocht ik het alleen doen, maar dan moest Lieke, een klasgenoot van mij, ook alleen aan het werk. Na overleg tussen Lieke en mij kwamen wij overeen dat wij de opdracht samen zouden gaan uitwerken. 
 
-Naast deze website hebben wij ook een Escape-room gemaakt. Hierbij laten wij onze klas 1x3 allerlei opdrachten uitvoeren waarbij zij uiteindelijk het web-adres van deze website bemachtigen.
+Naast deze website hebben wij ook een Escape-room gemaakt. Hierbij laten wij onze klas 1x3, allerlei opdrachten uitvoeren waarbij zij uiteindelijk het web-adres van deze website bemachtigen.
 
 Op deze website, vind je een samenvatting van de boeken die wij hebben gelezen en wat informatie over de schrijvers van het boek. De plaatjes/foto's die op deze site worden gebruikt zijn soms wat creatief weggezet, dit omdat wij niet zomaar foto's van de schrijvers en boeken mogen publiceren vanwege auteursrecht en de privacy wet.
 
