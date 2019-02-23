@@ -9,7 +9,7 @@ author_description: >-
   **INFORMATIE OVER DE AUTEUR**
 
 
-  Elle Van den Bogaart is geboren in 1959, in Nuland. Na haar HBO-J-diploma is
+  Elle van den Bogaart is geboren in 1959, in Nuland. Na haar HBO-J-diploma is
   ze gaan werken  als psychologisch assistente in Eindhoven. 
 
 
