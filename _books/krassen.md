@@ -4,7 +4,7 @@ title: Krassen
 author: Elle van den Bogaart
 year: 2004
 isbn: '9789000347728'
-read-by: ''
+read-by: Marit van Groningen
 image: /assets/img/uploads/kitten-scratches-sofa-looking-innocent_925x.jpg
 author_description: "**INFORMATIE OVER DE AUTEUR**\n\nElle van den Bogaart is geboren in 1959, in Nuland. Na haar HBO-J-diploma is ze gaan werken als psychologisch assistente in Eindhoven.\r\n\nElle heeft tot nu toe zes boeken geschreven:\r\n\n1. De gele scooter --> seksueel misbruik\r\n2. Krassen --> zelfmoord\r\n3. Duizend kilometer --> probleemjongeren\r\n4. Prooi --> jongensprostitutie\r\n5. Vermist --> vermissing\r\n6. De val --> onmogelijke liefde"
 ---
