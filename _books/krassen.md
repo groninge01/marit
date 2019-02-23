@@ -4,6 +4,7 @@ title: Krassen
 author: Elle van den Bogaart
 year: 2004
 isbn: '9789000347728'
+read-by: ''
 image: /assets/img/uploads/kitten-scratches-sofa-looking-innocent_925x.jpg
 author_description: >-
   **INFORMATIE OVER DE AUTEUR**

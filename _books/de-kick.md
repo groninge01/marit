@@ -4,6 +4,7 @@ title: De Kick
 author: Heleen Vreeswijk
 year: '2014'
 isbn: 978-90-00-34091
+read-by: ''
 image: /assets/img/uploads/pexels-photo-1086113.jpeg
 author_description: >-
   **INFORMATIE OVER DE AUTEUR**
