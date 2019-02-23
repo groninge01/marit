@@ -6,20 +6,18 @@ year: 2004
 isbn: '9789000347728'
 read-by: ''
 image: /assets/img/uploads/kitten-scratches-sofa-looking-innocent_925x.jpg
-author_description: >-
-  **INFORMATIE OVER DE AUTEUR**
-
-
-  Van den Bogaart is geboren in 1959 in Nuland. Na haar HBO-J-diploma ging ze
-  aan het werk als psychologisch assistente in Eindhoven. In 2003 schreef ze
-  haar eerste roman De gele scooter over een meisje dat seksueel misbruikt is.
-  Hierna volgde haar tweede roman Krassen over een jongen wiens moeder een eind
-  aan haar leven maakte. Haar derde boek heet Duizend kilometer over
-  probleemjongeren op een zorgboerderij. Verder ging haar vierde boek Prooi over
-  jongensprostitutie. Vermist is haar vijfde jongerenroman en gaat over de
-  vermissing van een meisje. Haar zesde boek De val gaat over de onmogelijke
-  liefde tussen een meisje en een jongen die betrokken is bij een bende.
+author_description: "**INFORMATIE OVER DE AUTEUR**\n\nElle van den Bogaart is geboren in 1959, in Nuland. Na haar HBO-J-diploma is ze gaan werken als psychologisch assistente in Eindhoven.\r\n\nElle heeft tot nu toe zes boeken geschreven:\r\n\n1. De gele scooter --> seksueel misbruik\r\n2. Krassen --> zelfmoord\r\n3. Duizend kilometer --> probleemjongeren\r\n4. Prooi --> jongensprostitutie\r\n5. Vermist --> vermissing\r\n6. De val --> onmogelijke liefde"
 ---
 **SAMENVATTING**
 
-Kars is er kapot van net als de rest van het gezin, zijn moeder heeft zelfmoord gepleegd.  Niemand weet waarom, en iedereen gaat anders met het verlies om: zijn vader gaat aan de drank, zijn zus sluit iedereen buiten en weigert te praten en hijzelf krast in zijn armen wanneer hij zich alleen voelt of word herinnerd aan de pijn. In zijn klas leven ze allemaal erg mee ook Josje ze nodigt hem uit voor op haar verjaardagsfeest. Daar ontmoet hij Pien zij is de zus van Josje ze spreken af om de volgende bij hem thuis huiswerk te maken. De volgende dag bij Kras thuis gaan ze naar zijn kamer, daar stoot Pien per ongeluk hem op de plek waar hij zichzelf snijdt. Hij trekt zijn arm snel terug en Pien vraagt wat er is. Hij zegt niks, maar Pien pakt zijn arm en trekt zijn mouw omhoog. Ze vraagt waarom hij dit doet. Hij legt alles uit. Pien zegt dat hij hiermee moet stoppen en dat ze dan samen gaan onderzoeken waarom zijn moeder dit heeft gedaan. Als eerst gaan ze kijken bij haar theaterstuk maar daar worden ze niet echt wijzer van. Kars denkt dat hij misschien iets kan vinden op zijn ouders slaapkamer. Terwijl hij tussen zijn oude speelgoed kijkt vindt hij een boekje. Hij kijkt erin en beseft dat het zijn moeders dagboek is. Er staan dingen in zoals: Ik moest hem achterlaten en weten dat ik hem nooit meer zal zien. Kars begrijpt er niks van. Samen met Pien ontdekt hij nog veel meer dingen zoals dat zijn moeder vroeger in New York is geweest om te babysitten en daar verliefd is geworden. Hij gaat naar zijn grootouders voor een verklaring. Zijn grootouders biechten op dat zijn moeder in New York zwanger is geworden en dat zij vonden dat ze een abortus moest ondergaan. Kras zijn moeder wou dat niet en heeft een paar weken na het bevallen haar kind in een adoptiehuis geplaatst. Kras snapt nu waarom zijn moeder zelfmoord heeft gepleegd. Het theaterstuk wat ze speelde was haar verhaal alles wat in het theaterstuk voor kwam had ze meegemaakt in haar echte leven. De dingen die nu in het dagboek staan van zijn moeder zijn nu ook begrijpelijk voor hem. Zijn zus en vader doen weer normaal tegen hem en beloven meer dingen samen te doen.
+Wanneer de moeder van Kars zelfmoord pleegt, zijn Kars en de rest van het gezin er kapot van. Niemand begrijpt waarom zijn moeder een einde aan haar leven heeft gemaakt. Iedereen gaat anders met het verlies om: zijn vader gaat aan de drank, zijn zus sluit iedereen buiten en weigert te praten en hijzelf krast in zijn armen wanneer hij zich alleen voelt of wordt herinnerd aan de pijn. 
+
+In zijn klas leven ze allemaal erg met hem mee. Zo ook Josje: zij nodigt hem uit voor haar verjaardag. Daar ontmoet hij Pien, de zus van Josje. Kars spreekt met Josje af om de volgende dag bij hem thuis huiswerk te maken. 
+
+Wanneer Pien per ongeluk Kars zijn arm raakt, op de plek waar hij zichzelf krast (snijdt), trekt hij zijn arm terug. Pien wil graag weten wat er aan de hand is, maar Kars geeft aan dat er niets is. Piet gelooft hem niet en weet zijn mouw omhoog te trekken. Dan ziet zij de krassen in zijn huid.  Zij geeft niet op en blijft op Kars in praten, dan vertelt hij haar wat hem dwars zit. Pien wil dat Kars met het krassen stopt. Zij spreekt met Kars af dat zij hem gaat helpen met het uitzoeken waarom zijn moeder een einde aan haar leven heeft gemaakt. 
+
+Hij begint zelf met zoeken in huis, hij begint op zijn ouders slaapkamer (op een moment dat zijn vader er niet is). Tijdens het zoeken tussen zijn oude speelgoed, in een kast op de kamer van zijn vader, vindt hij een boekje. Dit boekje blijkt een dagboek van zijn moeder te zijn. Hij begint met lezen, maar begrijpt weinig van de opmerkingen die zijn moeder geschreven heeft. Zo staat er onder andere: ik moest hem achterlaten en weet daarmee dat ik hem nooit meer zal zien. 
+
+Samen met Pien ontdekt hij nog meer dingen over zijn moeder. Zo komt hij erachter dat zijn moeder vroeger een periode in New York is geweest om te babysitten en daar ook verliefd is geworden en een relatie heeft gehad. Hij besluit zijn opa en oma te confronteren met wat hij weet. Zij vertellen hem dat zijn moeder in New York zwanger is geworden en dat zij wilde dat zij abortus liet plegen. Hun dochter wilde dat niet en heeft haar baby een paar weken na de bevalling aan een adoptiehuis afgestaan. Hij komt er ook achter dat de man met wie zijn moeder vroeger een relatie had in New York, nog niet zo heel lang geleden weer in beeld is gekomen. Zijn moeder heeft nog gevoelens voor deze man, maar zij besloot om bij Kars, zijn zus en zijn vader te blijven. 
+
+Na de verklaring van zijn opa en oma beginnen de opmerkingen, in het dagboek, van zijn moeder op zijn plaats te vallen. Ook het theaterstuk waar zijn moeder aan mee werkte (en de hoofdrol in speelde) begreep hij nu. Dit was haar levensverhaal. Kars, zijn vader en zijn zus begrijpen nu dat zijn moeder met haar gevoelens in de knoop zat. Daarnaast kon zij niet omgaan met haar beslissingen die zij in het verleden gemaakt had.
