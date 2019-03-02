@@ -43,18 +43,11 @@ Met Omar gaat het steeds beter. In de nieuwe gevangenis mag hij één keer per m
 
 Op een dag komt Omar in de Moskee, om de imam te bezoeken. Maar de imam was er niet. In de Moskee hoorde Omar dat de imam, een inmiddels goede vriend, het land was uitgezet naar Afghanistan. Al heeft Omar geen contact meer met de imam, hij wil hem opzoeken. Omar gaat werken en verdient niet veel, maar legt alles wat hij kan missen aan de kant voor zijn reis. wanneer Omar genoeg heeft gespaard gaat hij naar Afghanistan. Daar gaat hij op zoek naar imam, na veel moeite weet hij het dorpje van de imam te vinden. De imam is ernstig ziek. Omar besluit om hem naar een dokter te brengen in een dorpje verderop. Omar en de imam reizen apart van elkaar in twee voertuigen. Onderweg overlijdt de Imam omdat de auto wordt geraakt door een granaat. 
 
+Via via krijgt Omar onderdak, daar wordt hij verliefd op de dochter van de gastheer. Als de dochter en haar oom op een dag naar een bruiloft gaan, ontsnappen ze aan de dood. Op de bruiloft was een aanslag en zij zijn de enige overlevenden. 
 
+Hierdoor besluit Omar terug te gaan naar Nederland. Hij is kwaad en besluit wraak te nemen op de Nederlandse bank, omdat zij de wapenhandel zou ondersteunen. Omar gaat naar de bank en gijzelt al het personeel, en dreigt met een bom als zijn eisen niet ingewilligd worden. Als Omar iedereen heeft vastgebonden komt Joost met een koffiekarretje uit de lift.
 
-
-
-
-
-Omar krijgt via via onderdak en wordt daar verliefd op de dochter van de gastheer. Als de dochter en oom op een dag naar een bruiloft gaan komen ze niets zo blij terug. Er is een aanslag geweest op de bruiloft en alleen hun hebben het overleeft. Omar is zo kwaad dat hij zo snel mogelijk naar Nederland gaat omdat de Nederlandse bank de wapenhandel ondersteund. Als hij in Nederland is gaat hij naar de bank en gijzeld al het personeel. Hij dreigt om een bom af te laten gaan als ze niet luisteren. Als Omar net iedereen heeft vastgebonden gaat de lift open en komt Joost binnen met een koffiekarretje. 
-
-Ze hebben elkaar al heel lang niet gezien en praten al deze gebeurtenissen bij. 
-
-Uiteindelijk besluiten ze na al deze ellende om iedereen vrij te laten en de bom laten afgaan op de bovenste etage. Joost en Omar blijven boven, en sterven.
-
-
+Joost herkent Omar direct. Joost probeert tevergeefs op Omar in te praten, maar geeft ook aan dat het hem allemaal niets meer uitmaakt. Hij kan toch niet meer maken van zijn leven. Uiteindelijk weet iemand zich uit de touwen los te wurmen. Joost overmeesterd Omar en de degene die los is gekomen maakt de overige "gevangenen" los. Zodra zij het pand hebben verlaten. Laat Joost de bom afgaan.
+Joost en Omar sterven.....
 
 We ride together, we die together, bad boys for life.
