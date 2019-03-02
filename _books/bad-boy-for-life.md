@@ -33,7 +33,7 @@ Het verhaal gaat over twee jongens: Joost en Omar. Joost en Omar leren elkaar ke
 
 Joost zit in voorarrest omdat hij verdacht wordt van seksueel misbruik. Voor zijn eigen veiligheid wordt hem geadviseerd dit niet te vertellen aan zijn medegevangenen. Uiteindelijk besluit hij zijn beste vriend Omar in vertrouwen te nemen. Hij vertelt Omar dat een buurmeisje aangifte tegen hem heeft gedaan. Zij zegt dat Joost aan haar heeft gezeten. Volgens Joost klopt er niets van dat verhaal. Hij zegt dat hij een bal uit het schuurtje pakte en dat hij daarna is gaan voetballen. 
 
-Tijdens Joost zijn verblijf in de gevangenis, wordt hij verliefd op een net nieuw meisje: Mirjam. Mirjam vindt Joost ook heel leuk, ze krijgen verkering. Wel houden ze dit geheim omdat het verboden is dat gevangenen met elkaar een relatie aangaan.
+Tijdens Joost zijn verblijf in de gevangenis, wordt hij verliefd op een net nieuw meisje: Mirjam. Mirjam vindt Joost ook heel leuk, ze krijgen verkering. Wel houden ze dit geheim omdat het verboden is dat gevangenen met elkaar een relatie hebben.
 
 Vlak voor de hoorzitting van Joost, krijgen Omar en Joost enorme ruzie. Door deze ruzie wordt Omar overgeplaatst naar een andere jeugdgevangenis. Omar is heel boos op Joost en verspreid de roddel dat Joost een pedofiel is. 
 
