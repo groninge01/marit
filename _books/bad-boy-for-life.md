@@ -27,34 +27,27 @@ author_description: >-
 
   \- Headshot
 ---
-Joost en Omar zitten in een jeugdgevangenis. Ze zijn de beste vrienden van elkaar.
+SAMENVATTING
 
-Joost zit in voorarrest maar omar zit al meerdere jaren in de gevangenis.
+Het verhaal gaat over twee jongens: Joost en Omar. Joost en Omar leren elkaar kennen in een jeugdgevangenis. Als Joost in de gevangenis komt in verband met voorarrest, zit Omar er al enkele jaren. Omar zijn straf wordt steeds verlengd, omdat hij steeds bij gevechten betrokken raakt met medegevangenen.
 
-Omar moet keer op keer langer zitten wegens geweld.
+Joost zit in voorarrest omdat hij verdacht wordt van seksueel misbruik. Voor zijn eigen veiligheid wordt hem geadviseerd dit niet te vertellen aan zijn medegevangenen. Uiteindelijk besluit hij zijn beste vriend Omar in vertrouwen te nemen. Hij vertelt Omar dat een buurmeisje aangifte tegen hem heeft gedaan. Zij zegt dat Joost aan haar heeft gezeten. Volgens Joost klopt er niets van dat verhaal. Hij zegt dat hij een bal uit het schuurtje pakte en dat hij daarna is gaan voetballen. 
 
-Joost moet in het begin geheim houden waarvoor hij is opgepakt. Hij verteld het alleen zijn beste vriend Omar. Joost is opgepakt omdat hij een verdachte was van sexueel misbruik. Wat echter niet waar is zegt Joost. 
+Tijdens Joost zijn verblijf in de gevangenis, wordt hij verliefd op een net nieuw meisje: Mirjam. Mirjam vindt Joost ook heel leuk, ze krijgen verkering. Wel houden ze dit geheim omdat het verboden is dat gevangenen met elkaar een relatie hebben.
 
-Het buurmeisje van Joost heeft aangifte gedaan omdat Joost volgens haar aan haar zat. Het verhaal van Joost is dat hij een bal pakte uit het schuurtje en daarna ging voetballen. Dit verhaal blijkt later ook kloppend te zijn.
+Vlak voor de hoorzitting van Joost, krijgen Omar en Joost enorme ruzie. Door deze ruzie wordt Omar overgeplaatst naar een andere jeugdgevangenis. Omar is heel boos op Joost en verspreid de roddel dat Joost een pedofiel is. 
 
+Door de roddel van Omar, volgt er een zware tijd voor Joost. Hij wordt meerdere keren in elkaar geslagen. Mirjam begint ook aan hem te twijfelen en negeert hem volledig. Joost wordt steeds kwader en gebruikt hij ook steeds meer geweld. Hij raakt dan ook bij meerdere gevechten betrokken. Hierdoor wordt zijn straf ook verlengd.  
 
+Met Omar gaat het steeds beter. In de nieuwe gevangenis mag hij één keer per maand naar buiten. Op zo'n dag gaat hij naar een Moskee, hier ontmoet hij een imam. De imam probeert Omar weer op het juiste pad te krijgen. Omar krijgt hierdoor weer vertrouwen in zichzelf en gaat er vol tegenaan.
 
-Joost wordt verliefd op een  net nieuw meisje in de gevangenis. In het geheim krijgen ze verkering omdat de teamleiders van de gevangenis niet willen dat de jongens en meisjes verkering krijgen.
+Op een dag komt Omar in de Moskee, om de imam te bezoeken. Maar de imam was er niet. In de Moskee hoorde Omar dat de imam, een inmiddels goede vriend, het land was uitgezet naar Afghanistan. Al heeft Omar geen contact meer met de imam, hij wil hem opzoeken. Omar gaat werken en verdient niet veel, maar legt alles wat hij kan missen aan de kant voor zijn reis. wanneer Omar genoeg heeft gespaard gaat hij naar Afghanistan. Daar gaat hij op zoek naar imam, na veel moeite weet hij het dorpje van de imam te vinden. De imam is ernstig ziek. Omar besluit om hem naar een dokter te brengen in een dorpje verderop. Omar en de imam reizen apart van elkaar in twee voertuigen. Onderweg overlijdt de Imam omdat de auto wordt geraakt door een granaat. 
 
+Via via krijgt Omar onderdak, daar wordt hij verliefd op de dochter van de gastheer. Als de dochter en haar oom op een dag naar een bruiloft gaan, ontsnappen ze aan de dood. Op de bruiloft was een aanslag en zij zijn de enige overlevenden. 
 
+Hierdoor besluit Omar terug te gaan naar Nederland. Hij is kwaad en besluit wraak te nemen op de Nederlandse bank, omdat zij de wapenhandel zou ondersteunen. Omar gaat naar de bank en gijzelt al het personeel, en dreigt met een bom als zijn eisen niet ingewilligd worden. Als Omar iedereen heeft vastgebonden komt Joost met een koffiekarretje uit de lift.
 
-Omar en Joost krijgen enorme ruzie, precies op het moment dat Joost bijna wordt vrijgelaten. Omar wordt naar een andere jeugdgevangenis overgeplaatst en moet daardoor zijn hele proces overnieuw doen. Omdat Omar kwaad is op Joost verspreid hij de roddel dat Joost pedofiel is over de hele gevangenis.
-
-Joost heeft hierdoor het heel zwaar, hij wordt in elkaar getrapt en ook zijn vriendin vertrouwd het niet en negeert hem volledig. Joost wordt steeds kwader en begint ook zelf steeds ruiger te worden. Hierdoor wordt ook joost’s zitting verlengt. Het is een zware tijd voor joost.
-
-Als Omar naar de andere gevangenis wordt overgeplaatst mag hij een keer in de maand naar buiten. Op die dag gaat hij naar de moskee waar hij een imam ontmoet. De imam probeert Omar te overtuigen om weer op het goede pad te komen. Omar begint steeds vaker in zichzelf te geloven en gaat er vol tegenaan.
-
-Op een dag hoort Omar dat de imam en inmiddels goede vriend uit het land is gezet en terug moet naar een oorlogsgebied. Wanneer Omar dit hoort begint hij meteen met sparen om zijn vriend op te zoeken om te kijken hoe het met hem gaat. na veel moeite lukt het Omar om het dorpje te bereiken. De imam ligt ziek in zijn kleine huisje als Omar aan komt. Omar neemt hem mee, maar onderweg komt hij om. Omar krijgt via via onderdak en wordt daar verliefd op de dochter van de gastheer. Als de dochter en oom op een dag naar een bruiloft gaan komen ze niets zo blij terug. Er is een aanslag geweest op de bruiloft en alleen hun hebben het overleeft. Omar is zo kwaad dat hij zo snel mogelijk naar Nederland gaat omdat de Nederlandse bank de wapenhandel ondersteund. Als hij in Nederland is gaat hij naar de bank en gijzeld al het personeel. Hij dreigt om een bom af te laten gaan als ze niet luisteren. Als Omar net iedereen heeft vastgebonden gaat de lift open en komt Joost binnen met een koffiekarretje. 
-
-Ze hebben elkaar al heel lang niet gezien en praten al deze gebeurtenissen bij. 
-
-Uiteindelijk besluiten ze na al deze ellende om iedereen vrij te laten en de bom laten afgaan op de bovenste etage. Joost en Omar blijven boven, en sterven.
-
-
+Joost herkent Omar direct. Joost probeert tevergeefs op Omar in te praten, maar geeft ook aan dat het hem allemaal niets meer uitmaakt. Hij kan toch niet meer maken van zijn leven. Uiteindelijk weet iemand zich uit de touwen los te wurmen. Joost overmeesterd Omar en de degene die los is gekomen maakt de overige "gevangenen" los. Zodra zij het pand hebben verlaten. Laat Joost de bom afgaan.
+Joost en Omar sterven.....
 
 We ride together, we die together, bad boys for life.
