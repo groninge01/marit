@@ -1,6 +1,6 @@
 ---
 layout: carousel
-title: Boeken
+title: Exercises
 permalink: /boeken
 section: boeken
 intro_paragraph: ''
