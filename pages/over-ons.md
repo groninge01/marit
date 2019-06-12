@@ -1,6 +1,7 @@
 ---
 layout: designer-tile
-title: ' Over ons'
+title: About us
 permalink: /over-ons
 section: over-ons
 ---
+
