@@ -79,3 +79,9 @@ Written by Jens
 3,5/5 stars
 
 I hate reading but this book was just oke not really hard or simple just normal. I did like the fact that she wrote it out of diffrent sights.
+
+Written by Nick
+
+2,5/5 stars
+
+I just hate reading and this book was not interesting how writer it wrote makes it just more boring. I did not liked  the fact that its wrote from fiffrent sights.
