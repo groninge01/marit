@@ -1,5 +1,5 @@
 ---
-layout: book-tile
+layout: exercise-tile
 title: Shop
 author: 'Noortje '
 year: 2019

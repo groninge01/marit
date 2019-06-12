@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Opdracht voor Nederlands
+title: Assigment for English class
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Beschrijving van mijn opdracht voor Nederlands
@@ -23,9 +23,9 @@ url: "https://www.marit.ml" # the base hostname & protocol for your site, e.g. h
 # Collection
 
 collections:
-  books:
+  exercises:
     output: true
-    permalink: /boeken/:slug
+    permalink: /exercises/:slug
   designers:
     output: true
 

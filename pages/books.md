@@ -1,8 +1,8 @@
 ---
 layout: carousel
 title: Exercises
-permalink: /boeken
-section: boeken
+permalink: /exercises
+section: exercises
 intro_paragraph: ''
 ---
 

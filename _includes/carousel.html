@@ -2,18 +2,18 @@
     <div class='carousel-container'>
         <div class='carousel-item has-background is-active'>
             <figure class="image is-16by9">
-                <img class="is-background" src="/assets/img/uploads/books-bookstore-book-reading-159711.jpeg" alt="" width="640" height="210" />
+                <img class="is-background" src="/assets/img/uploads/nasa-45076-unsplash.jpg" alt="" width="640" height="210" />
             </figure>
-            <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">Boeken</div>
+            <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">Excercises</div>
         </div>
 
-        {% for book in site.books %}
+        {% for exercise in site.exercises %}
         <div class='carousel-item has-background'>
-            <a href="/boeken{{ book.slug | relative_url}}">
+            <a href="/exercises{{ exercise.slug | relative_url}}">
                 <figure class="image is-16by9">
-                    <img class="is-background" src={{ book.image }} alt="" width="640" height="310" />
+                    <img class="is-background" src={{ exercise.image }} alt="" width="640" height="310" />
                 </figure>
-                <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">{{ book.title }}</div>
+                <div class="title is-size-1-desktop is-uppercase has-text-weight-bold">{{ exercise.title }}</div>
             </a>
         </div>
         {% endfor %}

@@ -2,7 +2,7 @@
 
 - text: Home
   url: /
-- text: Boeken
-  url: /boeken
-- text: Over ons
-  url: /over-ons
+- text: Exercises
+  url: /exercises
+- text: About us
+  url: /about
