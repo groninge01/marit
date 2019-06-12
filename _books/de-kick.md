@@ -68,10 +68,20 @@ Written by kian
 
 I don't really like reading but this book was better than the other books i have read. I like the way the author wrote the book in parts and from different sights. The sentences aren't really easy to read.
 
-
-
 Written by Marit
 
 4/5 stars
 
 I really like reading but I did not really liked this book. I liked the fact that the book was written out of different sights. The words are not really diffecult and so are the sentences.
+
+Written by Jens
+
+3,5/5 stars
+
+I hate reading but this book was just oke not really hard or simple just normal. I did like the fact that she wrote it out of diffrent sights.
+
+Written by Nick
+
+2,5/5 stars
+
+I just hate reading and this book was not interesting how writer it wrote makes it just more boring. I did not liked  the fact that its wrote from fiffrent sights.
