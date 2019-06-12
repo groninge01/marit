@@ -15,5 +15,3 @@ author_description: ''
 ![](/assets/img/uploads/img-1560344074446.png)
 
 ![](/assets/img/uploads/img-1560344166349.png)
-
-This our shop whre you can buy items related to Wonder.
