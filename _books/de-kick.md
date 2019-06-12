@@ -48,18 +48,30 @@ said she needed to do that. First he did not trusted her but then when he
 
 trusted her they became friends.
 
+**6. Write about a part of the book that made you happy or sad and tell why.**
+
+**(maximum of 10 sentences)**
+
+When summer became his friend it made me happy cause he didn't had friends.
+
+**7. Tell what you liked or didn't like about the author's style and also write your**
+
+**personal review of the book. (maximum of 5 sentences)**
+
+![](/assets/img/uploads/img-1560346712989.png)
+
+- - -
+
+Written by kian
+
+3/5 stars
+
+I don't really like reading but this book was better than the other books i have read. I like the way the author wrote the book in parts and from different sights. The sentences aren't really easy to read.
 
 
 
+Written by Marit
 
+4/5 stars
 
-
-
-
-
-
-
-
-****
-
-.
+I really like reading but I did not really liked this book. I liked the fact that the book was written out of different sights. The words are not really diffecult and so are the sentences.
