@@ -84,4 +84,4 @@ Written by Nick
 
 2,5/5 stars
 
-I just hate reading and this book was not interesting how writer it wrote makes it just more boring. I did not liked  the fact that its wrote from fiffrent sights.
+I just hate reading and this book was not interesting how writer it wrote makes it just more boring. I did not liked  the fact that its wrote from diffrent sights.
