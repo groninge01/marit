@@ -1,9 +1,9 @@
 ---
 layout: exercise-tile
 title: assignments from the assignment sheet
-author: 'N'
+author: '6'
 year: 3
-isbn: s
+isbn: 4s
 read-by: s
 image: /assets/img/uploads/hhhh.jpg
 author_description: '****'
@@ -48,18 +48,24 @@ said she needed to do that. First he did not trusted her but then when he
 
 trusted her they became friends.
 
+**6. reviews**
 
+![](/assets/img/uploads/img-1560346712989.png)
 
+- - -
 
+Written by kian
 
+It is a wonderfull book. The story is amazing. I was very sad on the moment he was bullied.  And it makes me happy to see August with his friends. I think that the author palacio did a great job.
 
+Written by Nick
 
+I had a good first impression, but when I started reading the book, I found it annoying that another character always said something. The story it self is impressive and intense. I recommend this book because it is good to read a book in a different language and it is a good story.
 
+Written by Jens
 
+It is a good book the fact that it's wrote out of different sights makes the book better. The story is also really good.
 
+Written by marit
 
-
-
-****
-
-.
+I like the book and the fact that it's wrote out of diffrent sights. It's  wonderfull story and the writer did a good job.
