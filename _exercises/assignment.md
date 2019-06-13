@@ -34,7 +34,11 @@ a nice guy. His personality is pretty good his personality is just normal like t
 
 most people. He does not trusted some people first but later they became his 
 
-friends. 
+friends.
+
+![](/assets/img/uploads/img-1560407947841.png)
+
+ 
 
 **5. Write about a part of the book that made you happy or sad and tell why.**
 
