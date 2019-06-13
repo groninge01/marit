@@ -14,6 +14,8 @@ It’s a sort of wonder that he goes to school. In the first part he got bullied
 
 then he got friends and got more accepted. He got also a kind of cool.
 
+![](/assets/img/uploads/555.jpg)
+
 **2. Brief summary of the book (maximum of 10 sentences)**
 
 August is the main character of the book. He has a deformed face and he has 
@@ -36,9 +38,9 @@ most people. He does not trusted some people first but later they became his
 
 friends.
 
-![](/assets/img/uploads/img-1560407947841.png)
+![](/assets/img/uploads/4e09d7c0-304d-43c1-8d85-293bb9c4432e.jpg)
 
- 
+![](/assets/img/uploads/img-1560407947841.png)
 
 **5. Write about a part of the book that made you happy or sad and tell why.**
 
