@@ -64,7 +64,7 @@ I had a good first impression, but when I started reading the book, I found it a
 
 Written by Jens
 
-It is a good book the fact that it's wrote out of different sights makes the book better. The story is also really good.
+Hello I'm Jens, what I found about this book is. The way it's wrote is fantastic and the story is beautiful but after a couple of pages I found it little bit boring. But the story and the meaning is nice.
 
 Written by marit
 
